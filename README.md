@@ -3,6 +3,8 @@ One of the most loved by [developers](http://stackoverflow.com/insights/survey/2
 [Official site](https://www.rust-lang.org/en-US/) and
 [Github](https://github.com/rust-lang/rust) 
 
+Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jars" as other JVM languages. Rust chose to call its format "crates".
+
 Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 
 Examples of Projects built with Rust:
@@ -13,6 +15,7 @@ Examples of Projects built with Rust:
 * [wtftw, a tiling window manager](https://github.com/Kintaro/wtftw)
 * [Redox: A Rust Operating System](https://www.redox-os.org); Github [code](https://github.com/redox-os/redox)
 
+[Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
 
 [Your guide to programming ARM Cortex-M microcontrollers with Rust](https://github.com/japaric/copper), [YN](https://news.ycombinator.com/item?id=14071282)
 
