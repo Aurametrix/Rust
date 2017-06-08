@@ -22,3 +22,9 @@ Examples of Projects built with Rust:
 [svd2rust](https://docs.rs/svd2rust/)  - generates register-level APIs from SVD files, an XML format provided by most ARM microcontroller vendors; 
 [cortex_m](https://docs.rs/cortex-m/) - provides APIs for the core ARM peripherals in every Cortex-M MCU;
 [f3](https://docs.rs/f3/) - High level APIs for the peripherals and external sensors on the STM32 F3 Discovery board.
+
+add $STANDALONE_NDK/bin to $PATH.
+
+    [target.arm-linux-androideabi]
+    ar = "arm-linux-androideabi-ar"
+    linker = "arm-linux-androideabi-gcc"
