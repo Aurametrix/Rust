@@ -28,3 +28,5 @@ add $STANDALONE_NDK/bin to $PATH.
     [target.arm-linux-androideabi]
     ar = "arm-linux-androideabi-ar"
     linker = "arm-linux-androideabi-gcc"
+
+[Gutenberg](https://github.com/Keats/gutenberg) -  static site generator with everything built-in ([hn](https://news.ycombinator.com/item?id=15507538) 
