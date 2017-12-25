@@ -30,4 +30,7 @@ add $STANDALONE_NDK/bin to $PATH.
     linker = "arm-linux-androideabi-gcc"
 
 [Gutenberg](https://github.com/Keats/gutenberg) -  static site generator with everything built-in  --[hn](https://news.ycombinator.com/item?id=15507538) 
+
+[Yew: Rust framework for making React-like client web apps](https://github.com/DenisKolodin/yew)
+
 [Rust for Rubyists](https://matthias-endler.de/2017/rust-for-rubyists/)
