@@ -1,5 +1,0 @@
-pub struct Node {
-    value: u64,
-    next: Option<Box<Node>>,
-    prev: Option<Box<Node>>,
-}
