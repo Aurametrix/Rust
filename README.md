@@ -31,6 +31,7 @@ add $STANDALONE_NDK/bin to $PATH.
 
 [Gutenberg](https://github.com/Keats/gutenberg) -  static site generator with everything built-in  --[hn](https://news.ycombinator.com/item?id=15507538) 
 
-[Yew: Rust framework for making React-like client web apps](https://github.com/DenisKolodin/yew)
-
-[Rust for Rubyists](https://matthias-endler.de/2017/rust-for-rubyists/)
++ [Yew: Rust framework for making React-like client web apps](https://github.com/DenisKolodin/yew)
++ [Single File Web App with React and Rust](https://anderspitman.net/2018/04/04/static-react-rust-webapp/)
++ [Deploy on AWS](https://stackoverflow.com/questions/41250087/how-to-deploy-a-react-node-express-application-on-aws)
++ [Rust for Rubyists](https://matthias-endler.de/2017/rust-for-rubyists/)
