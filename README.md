@@ -35,3 +35,4 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Single File Web App with React and Rust](https://anderspitman.net/2018/04/04/static-react-rust-webapp/)
 + [Deploy on AWS](https://stackoverflow.com/questions/41250087/how-to-deploy-a-react-node-express-application-on-aws)
 + [Rust for Rubyists](https://matthias-endler.de/2017/rust-for-rubyists/)
+* [A syntax diagram generator](https://lukaslueg.github.io/macro_railroad_wasm_demo/)
