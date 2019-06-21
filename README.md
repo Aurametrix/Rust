@@ -7,7 +7,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 
 Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 
-Examples of Projects built with Rust:
+#### Examples of Projects built with Rust:
 * [Servo, the new browser engine being developed by Mozilla](https://github.com/servo/servo)
 * [Maidsafe, a company that tries to create an encrypted, completely decentralized "successor" to the internet](http://maidsafe.net/)
 * [Piston, a modular open source game engine](http://www.piston.rs/)
@@ -15,7 +15,10 @@ Examples of Projects built with Rust:
 * [wtftw, a tiling window manager](https://github.com/Kintaro/wtftw)
 * [Redox: A Rust Operating System](https://www.redox-os.org); Github [code](https://github.com/redox-os/redox)
 * [Sandspiel game](https://sandspiel.club); Github [code:](https://github.com/maxbittker/sandspiel) 
-[Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
+* [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
+
+##### Misc
+[Comparing performance](https://bitbucket.org/blog/why-rust)
 
 [Your guide to programming ARM Cortex-M microcontrollers with Rust](https://github.com/japaric/copper), [YN](https://news.ycombinator.com/item?id=14071282)
 
