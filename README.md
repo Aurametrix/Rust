@@ -37,6 +37,7 @@ add $STANDALONE_NDK/bin to $PATH.
 
 [Gutenberg](https://github.com/Keats/gutenberg) -  static site generator with everything built-in  --[hn](https://news.ycombinator.com/item?id=15507538) 
 
++ [Bioinformatics Library](https://github.com/10XGenomics/rust-bio)
 + [Game Development](http://iolivia.me/posts/24-hours-of-rust-game-dev/)
 + [Yew: Rust framework for making React-like client web apps](https://github.com/DenisKolodin/yew)
 + [Single File Web App with React and Rust](https://anderspitman.net/2018/04/04/static-react-rust-webapp/)
