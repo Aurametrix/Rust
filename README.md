@@ -29,6 +29,8 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 
 [Busy Box](https://github.com/samuela/rustybox)
 
+[NES emulator](https://github.com/spieglt/nestur)
+
 add $STANDALONE_NDK/bin to $PATH.
 
     [target.arm-linux-androideabi]
