@@ -16,6 +16,7 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 * [Redox: A Rust Operating System](https://www.redox-os.org); Github [code](https://github.com/redox-os/redox)
 * [Sandspiel game](https://sandspiel.club); Github [code:](https://github.com/maxbittker/sandspiel) 
 * [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
++ [Cryptographic hash function](https://github.com/BLAKE3-team/BLAKE3)
 
 ##### Misc
 [Comparing performance](https://bitbucket.org/blog/why-rust)
