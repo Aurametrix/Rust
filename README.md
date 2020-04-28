@@ -20,6 +20,7 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 
 ##### Misc
 [Comparing performance](https://bitbucket.org/blog/why-rust)
+[Rust Analyser]https://rust-analyzer.github.io/blog/2020/04/20/first-release.html()
 
 [Your guide to programming ARM Cortex-M microcontrollers with Rust](https://github.com/japaric/copper), [YN](https://news.ycombinator.com/item?id=14071282)
 
