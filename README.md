@@ -35,6 +35,8 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 
 [NES emulator](https://github.com/spieglt/nestur)
 
+[JQL](https://crates.io/crates/jql) - JSON query language built with RUST
+
 add $STANDALONE_NDK/bin to $PATH.
 
     [target.arm-linux-androideabi]
