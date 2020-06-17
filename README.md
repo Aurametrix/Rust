@@ -28,6 +28,9 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 
 [svd2rust](https://docs.rs/svd2rust/)  - generates register-level APIs from SVD files, an XML format provided by most ARM microcontroller vendors; 
 
+[real-time communication](https://blog.tonari.no/why-we-love-rust)
+
+
 [cortex_m](https://docs.rs/cortex-m/) - provides APIs for the core ARM peripherals in every Cortex-M MCU;
 [f3](https://docs.rs/f3/) - High level APIs for the peripherals and external sensors on the STM32 F3 Discovery board.
 
