@@ -19,6 +19,7 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 * [Sandspiel game](https://sandspiel.club); Github [code:](https://github.com/maxbittker/sandspiel) 
 * [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
 + [Cryptographic hash function](https://github.com/BLAKE3-team/BLAKE3)
++ [Terminal-based habit tracker](https://github.com/NerdyPepper/dijo)
 
 ##### Misc
 [Comparing performance](https://bitbucket.org/blog/why-rust)
