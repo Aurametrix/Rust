@@ -31,6 +31,7 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 
 [real-time communication](https://blog.tonari.no/why-we-love-rust)
 
+[Assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/): [playground](https://play.rust-lang.org/?version=nightly&mode=debug&edition=2018&gist=9500bb2bc3f638a4dd89e81fecafac0e)
 
 [cortex_m](https://docs.rs/cortex-m/) - provides APIs for the core ARM peripherals in every Cortex-M MCU;
 [f3](https://docs.rs/f3/) - High level APIs for the peripherals and external sensors on the STM32 F3 Discovery board.
