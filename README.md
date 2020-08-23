@@ -61,3 +61,4 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Rust for Rubyists](https://matthias-endler.de/2017/rust-for-rubyists/)
 * [A syntax diagram generator](https://lukaslueg.github.io/macro_railroad_wasm_demo/)
 + [AutoCXX](https://github.com/google/autocxx) - call C++ from Rust
++ [Command-line library](https://github.com/rust-shell-script/rust_cmd_lib)
