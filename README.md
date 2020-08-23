@@ -60,3 +60,4 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Deploy on AWS](https://stackoverflow.com/questions/41250087/how-to-deploy-a-react-node-express-application-on-aws)
 + [Rust for Rubyists](https://matthias-endler.de/2017/rust-for-rubyists/)
 * [A syntax diagram generator](https://lukaslueg.github.io/macro_railroad_wasm_demo/)
++ [AutoCXX](https://github.com/google/autocxx) - call C++ from Rust
