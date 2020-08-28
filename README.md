@@ -1,11 +1,14 @@
 # Rust
 One of the most loved by [developers](http://stackoverflow.com/insights/survey/2016#technology-most-loved-dreaded-and-wanted) languages, but not the most popular. Rust is a systems programming language - more like C++ and Go, and less like Node and Ruby. It is designed for better memory safety than C++ while maintaining performance
+
 [Official site](https://www.rust-lang.org/en-US/) and
 [Github](https://github.com/rust-lang/rust) 
 
 Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jars" as other JVM languages. Rust chose to call its format "crates".
 
 Who is using Rust: https://www.rust-lang.org/en-US/friends.html
+
+[comments on](https://news.ycombinator.com/item?id=24294960) [Rust - 1.46](https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html)
 
 [Learning Rust in 2020](https://github.com/pretzelhammer/rust-blog/blob/master/posts/learning-rust-in-2020.md)
 
