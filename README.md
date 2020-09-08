@@ -12,6 +12,8 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 
 [Learning Rust in 2020](https://github.com/pretzelhammer/rust-blog/blob/master/posts/learning-rust-in-2020.md)
 
+[Speeding up Rust compiler](https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/)
+
 #### Examples of Projects built with Rust:
 * [Servo, the new browser engine being developed by Mozilla](https://github.com/servo/servo)
 * [Maidsafe, a company that tries to create an encrypted, completely decentralized "successor" to the internet](http://maidsafe.net/)
