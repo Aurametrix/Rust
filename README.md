@@ -18,6 +18,7 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 * [Servo, the new browser engine being developed by Mozilla](https://github.com/servo/servo)
 * [Maidsafe, a company that tries to create an encrypted, completely decentralized "successor" to the internet](http://maidsafe.net/)
 * [Piston, a modular open source game engine](http://www.piston.rs/)
+* [RG3D](https://github.com/mrDIMAS/rg3d) - 3D game engine & scene editor
 * [Zinc, an experimental RTOS for ARM](http://zinc.rs/)
 * [wtftw, a tiling window manager](https://github.com/Kintaro/wtftw)
 * [Redox: A Rust Operating System](https://www.redox-os.org); Github [code](https://github.com/redox-os/redox)
