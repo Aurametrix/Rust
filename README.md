@@ -6,6 +6,8 @@ One of the most loved by [developers](http://stackoverflow.com/insights/survey/2
 
 Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jars" as other JVM languages. Rust chose to call its format "crates".
 
+
+
 Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 [Learn Rust](https://news.ycombinator.com/item?id=24527219)
 
@@ -14,6 +16,9 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 [Learning Rust in 2020](https://github.com/pretzelhammer/rust-blog/blob/master/posts/learning-rust-in-2020.md)
 
 [Speeding up Rust compiler](https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/)
+
+[Safety in Systems Programing](https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html); 
+[code for the course](https://github.com/reberhardt7/cs110l-spr-2020-starter-code)
 
 #### Examples of Projects built with Rust:
 * [Servo, the new browser engine being developed by Mozilla](https://github.com/servo/servo)
