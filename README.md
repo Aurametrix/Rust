@@ -36,8 +36,8 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 
 ##### Misc
 [Comparing performance](https://bitbucket.org/blog/why-rust)
-[Rust Analyser]https://rust-analyzer.github.io/blog/2020/04/20/first-release.html()
-
+[Rust Analyser]https://(rust-analyzer.github.io/blog/2020/04/20/first-release.html)
+[Eust-GPU](https://github.com/EmbarkStudios/rust-gpu/releases/tag/v0.1)
 [Your guide to programming ARM Cortex-M microcontrollers with Rust](https://github.com/japaric/copper), [YN](https://news.ycombinator.com/item?id=14071282)
 
 [svd2rust](https://docs.rs/svd2rust/)  - generates register-level APIs from SVD files, an XML format provided by most ARM microcontroller vendors; 
