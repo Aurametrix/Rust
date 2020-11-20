@@ -12,6 +12,7 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 [Learn Rust](https://news.ycombinator.com/item?id=24527219)
 
 [comments on](https://news.ycombinator.com/item?id=24294960) [Rust - 1.46](https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html)
+[1.48](https://blog.rust-lang.org/2020/11/19/Rust-1.48.html)
 
 [Learning Rust in 2020](https://github.com/pretzelhammer/rust-blog/blob/master/posts/learning-rust-in-2020.md)
 
