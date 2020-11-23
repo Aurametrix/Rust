@@ -58,6 +58,8 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 
 [JQL](https://crates.io/crates/jql) - JSON query language built with RUST
 
+[Rust script](https://rust-script.org/)
+
 add $STANDALONE_NDK/bin to $PATH.
 
     [target.arm-linux-androideabi]
