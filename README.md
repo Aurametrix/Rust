@@ -34,6 +34,7 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 * [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
 + [Cryptographic hash function](https://github.com/BLAKE3-team/BLAKE3)
 + [Terminal-based habit tracker](https://github.com/NerdyPepper/dijo)
++ [Notecalc](https://github.com/bbodi/notecalc3/releases/tag/v0.3.0)
 
 ##### Misc
 [Comparing performance](https://bitbucket.org/blog/why-rust)
