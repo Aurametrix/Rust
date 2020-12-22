@@ -78,3 +78,4 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Crepe](https://crates.io/crates/crepe) - library for declarative logic programs in Rust, with a Datalog-like syntax
 + [AutoCXX](https://github.com/google/autocxx) - call C++ from Rust
 + [Command-line library](https://github.com/rust-shell-script/rust_cmd_lib)
++ [GameLisp ](https://gamelisp.rs/) - scripting language for Rust game development; [Tetris](https://gamelisp.rs/playground/#quadris)
