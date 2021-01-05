@@ -10,6 +10,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 
 Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 [Learn Rust](https://news.ycombinator.com/item?id=24527219)
+[a half-an-hour to leearn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
 [comments on](https://news.ycombinator.com/item?id=24294960) [Rust - 1.46](https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html)
 [1.48](https://blog.rust-lang.org/2020/11/19/Rust-1.48.html)
