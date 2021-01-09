@@ -46,7 +46,8 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 [Rust in faster than C](https://benchmarksgame-team.pages.debian.net/benchmarksgame/which-programs-are-fastest.html)
 [svd2rust](https://docs.rs/svd2rust/)  - generates register-level APIs from SVD files, an XML format provided by most ARM microcontroller vendors; 
 
-[real-time communication](https://blog.tonari.no/why-we-love-rust)
+[real-time communication](https://blog.tonari.no/why-we-love-rust))
+[tracking heart rate while gaming](https://jcdav.is/2021/01/04/Holiday-Hacking-COD-HR/) - [code](https://github.com/jcdavis/hroverlay)
 
 [Assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/): [playground](https://play.rust-lang.org/?version=nightly&mode=debug&edition=2018&gist=9500bb2bc3f638a4dd89e81fecafac0e)
 
