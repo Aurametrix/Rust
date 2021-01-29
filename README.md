@@ -83,3 +83,4 @@ add $STANDALONE_NDK/bin to $PATH.
 + [AutoCXX](https://github.com/google/autocxx) - call C++ from Rust
 + [Command-line library](https://github.com/rust-shell-script/rust_cmd_lib)
 + [GameLisp ](https://gamelisp.rs/) - scripting language for Rust game development; [Tetris](https://gamelisp.rs/playground/#quadris)
++ [krunvm](https://github.com/slp/krunvm/) - a CLI-based utility for managing lightweight VMs created from OCI images, using libkrun and buildah.
