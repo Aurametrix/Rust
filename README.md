@@ -37,6 +37,7 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 + [Terminal-based habit tracker](https://github.com/NerdyPepper/dijo)
 + [Notecalc](https://github.com/bbodi/notecalc3/releases/tag/v0.3.0)
 + [vas-quod](https://github.com/flouthoc/vas-quod) - minimal container runtime written in Rust
++ [ Ht – HTTPie Clone in Rust](https://github.com/ducaale/ht)
 
 ##### Misc
 [Comparing performance](https://bitbucket.org/blog/why-rust)
