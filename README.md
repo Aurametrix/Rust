@@ -55,6 +55,8 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 [cortex_m](https://docs.rs/cortex-m/) - provides APIs for the core ARM peripherals in every Cortex-M MCU;
 [f3](https://docs.rs/f3/) - High level APIs for the peripherals and external sensors on the STM32 F3 Discovery board.
 
+[Zeke](https://github.com/nwj/zeke/) - note taking app
+
 [Busy Box](https://github.com/samuela/rustybox)
 
 [NES emulator](https://github.com/spieglt/nestur)
