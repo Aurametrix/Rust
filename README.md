@@ -61,6 +61,8 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 
 [NES emulator](https://github.com/spieglt/nestur)
 
+[Why asynchronous Rust doesn't work](https://theta.eu.org/2021/03/08/async-rust-2.html)
+
 [Tensorbase](https://tensorbase.io/)
 
 [JQL](https://crates.io/crates/jql) - JSON query language built with RUST
