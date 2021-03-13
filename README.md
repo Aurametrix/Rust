@@ -20,7 +20,8 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 [Speeding up Rust compiler](https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/)
 
 [Safety in Systems Programing](https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html); 
-[code for the course](https://github.com/reberhardt7/cs110l-spr-2020-starter-code)
+[Code for the course](https://github.com/reberhardt7/cs110l-spr-2020-starter-code)
+[Programming in Rusi](https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738)
 
 #### Examples of Projects built with Rust:
 * [Servo, the new browser engine being developed by Mozilla](https://github.com/servo/servo)
