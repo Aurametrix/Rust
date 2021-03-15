@@ -18,7 +18,7 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 [Learning Rust in 2020](https://github.com/pretzelhammer/rust-blog/blob/master/posts/learning-rust-in-2020.md)
 
 [Speeding up Rust compiler](https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/)
-
+[Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
 [Safety in Systems Programing](https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html); 
 [Code for the course](https://github.com/reberhardt7/cs110l-spr-2020-starter-code)
 [Programming in Rusi](https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738)
