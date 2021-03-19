@@ -31,6 +31,7 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 * [Zinc, an experimental RTOS for ARM](http://zinc.rs/)
 * [wtftw, a tiling window manager](https://github.com/Kintaro/wtftw)
 * [Redox: A Rust Operating System](https://www.redox-os.org); Github [code](https://github.com/redox-os/redox)
+* [Memote](https://github.com/opencobra/memote) - genome-scale metabolic model testing; [paper](https://www.nature.com/articles/s41587-020-0446-y) 
 * [Sandspiel game](https://sandspiel.club); Github [code:](https://github.com/maxbittker/sandspiel) 
 * [Bevy](https://bevyengine.org/news/introducing-bevy/) - data-driven game engine
 * [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
