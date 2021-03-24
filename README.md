@@ -91,3 +91,4 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Command-line library](https://github.com/rust-shell-script/rust_cmd_lib)
 + [GameLisp ](https://gamelisp.rs/) - scripting language for Rust game development; [Tetris](https://gamelisp.rs/playground/#quadris)
 + [krunvm](https://github.com/slp/krunvm/) - a CLI-based utility for managing lightweight VMs created from OCI images, using libkrun and buildah.
++ [Rust making way into Linux](https://www.zdnet.com/article/linus-torvalds-on-where-rust-will-fit-into-linux/)
