@@ -87,6 +87,7 @@ add $STANDALONE_NDK/bin to $PATH.
 
 + [Bioinformatics Library](https://github.com/10XGenomics/rust-bio)
 + [Game Development](http://iolivia.me/posts/24-hours-of-rust-game-dev/)
++ [Programming microcontroller](https://gill.net.in/posts/pic32-blink-led-rust/)
 + [Yew: Rust framework for making React-like client web apps](https://github.com/DenisKolodin/yew)
 + [Single File Web App with React and Rust](https://anderspitman.net/2018/04/04/static-react-rust-webapp/)
 + [Deploy on AWS](https://stackoverflow.com/questions/41250087/how-to-deploy-a-react-node-express-application-on-aws)
