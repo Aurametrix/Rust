@@ -53,6 +53,8 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 [svd2rust](https://docs.rs/svd2rust/)  - generates register-level APIs from SVD files, an XML format provided by most ARM microcontroller vendors; 
 [Hurl](https://hurl.dev/index.html) -  lightweight binary written in Rust; command line tool that runs HTTP requests defined in a simple plain text format.
 
+[nushell](https://www.nushell.sh/) - a new type of shell written in Rust
+
 [Rust for Linux redux](https://lwn.net/Articles/862018/)
 
 [real-time communication](https://blog.tonari.no/why-we-love-rust))
