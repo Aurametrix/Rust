@@ -43,6 +43,7 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 + [Notecalc](https://github.com/bbodi/notecalc3/releases/tag/v0.3.0)
 + [vas-quod](https://github.com/flouthoc/vas-quod) - minimal container runtime written in Rust
 + [ Ht – HTTPie Clone in Rust](https://github.com/ducaale/ht)
++ [Writing embedded firmware](https://www.anyleaf.org/)
 
 ##### Misc
 [Comparing performance](https://bitbucket.org/blog/why-rust)
@@ -52,6 +53,8 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 [Rust in faster than C](https://benchmarksgame-team.pages.debian.net/benchmarksgame/which-programs-are-fastest.html)
 [svd2rust](https://docs.rs/svd2rust/)  - generates register-level APIs from SVD files, an XML format provided by most ARM microcontroller vendors; 
 [Hurl](https://hurl.dev/index.html) -  lightweight binary written in Rust; command line tool that runs HTTP requests defined in a simple plain text format.
+
+[CONST generics](https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/)
 
 [nushell](https://www.nushell.sh/) - a new type of shell written in Rust
 
