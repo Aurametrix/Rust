@@ -26,6 +26,8 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 [Code for the course](https://github.com/reberhardt7/cs110l-spr-2020-starter-code)
 [Programming in Rusi](https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738)
 
+[Rust is the future of JS infrastructure](https://leerob.io/blog/rust)
+
 #### Examples of Projects built with Rust:
 * [Servo, the new browser engine being developed by Mozilla](https://github.com/servo/servo)
 * [Maidsafe, a company that tries to create an encrypted, completely decentralized "successor" to the internet](http://maidsafe.net/)
