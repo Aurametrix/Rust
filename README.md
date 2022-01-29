@@ -8,12 +8,12 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 
 
 
-Who is using Rust: https://www.rust-lang.org/en-US/friends.html
+[Who is using Rust](https://www.rust-lang.org/en-US/friends.html)
 [Learn Rust](https://news.ycombinator.com/item?id=24527219)
 
 [MS Video course](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#)
 
-[a half-an-hour to leearn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+[a half-an-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
 [comments on](https://news.ycombinator.com/item?id=24294960) [Rust - 1.46](https://blog.rust-lang.org/2020/08/27/Rust-1.46.0.html)
 [1.48](https://blog.rust-lang.org/2020/11/19/Rust-1.48.html)
@@ -24,7 +24,9 @@ Who is using Rust: https://www.rust-lang.org/en-US/friends.html
 [Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
 [Safety in Systems Programing](https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html); 
 [Code for the course](https://github.com/reberhardt7/cs110l-spr-2020-starter-code)
-[Programming in Rusi](https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738)
+[Programming in Rust](https://hackernoon.com/programming-in-rust-the-good-the-bad-the-ugly-d06f8d8b7738)
+
+[Self-modifying executables/](https://blog.dend.ro/self-modifying-rust/)
 
 [Rust is the future of JS infrastructure](https://leerob.io/blog/rust)
 
