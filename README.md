@@ -109,3 +109,4 @@ add $STANDALONE_NDK/bin to $PATH.
 + [krunvm](https://github.com/slp/krunvm/) - a CLI-based utility for managing lightweight VMs created from OCI images, using libkrun and buildah.
 + [Rust making way into Linux](https://www.zdnet.com/article/linus-torvalds-on-where-rust-will-fit-into-linux/)
 + [Rust CUDA](https://github.com/RDambrosio016/Rust-CUDA)
++ [Rust vs Go, C++, or Node.js](https://symless.com/blog/we-are-choosing-rust-and-heres-why)
