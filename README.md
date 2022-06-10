@@ -81,6 +81,8 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 
 [Why asynchronous Rust doesn't work](https://theta.eu.org/2021/03/08/async-rust-2.html)
 
+[Rust without the async (hard) part](https://lunatic.solutions/blog/rust-without-the-async-hard-part/)
+
 [Tensorbase](https://tensorbase.io/)
 
 [JQL](https://crates.io/crates/jql) - JSON query language built with RUST
