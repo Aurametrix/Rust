@@ -64,6 +64,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 [nushell](https://www.nushell.sh/) - a new type of shell written in Rust
 
 [Rust for Linux redux](https://lwn.net/Articles/862018/)
+[Error handling](https://www.sheshbabu.com/posts/rust-error-handling/)
 
 [real-time communication](https://blog.tonari.no/why-we-love-rust))
 [tracking heart rate while gaming](https://jcdav.is/2021/01/04/Holiday-Hacking-COD-HR/) - [code](https://github.com/jcdavis/hroverlay)
