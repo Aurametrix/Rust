@@ -66,6 +66,8 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 [Rust for Linux redux](https://lwn.net/Articles/862018/)
 [Error handling](https://www.sheshbabu.com/posts/rust-error-handling/)
 
+[Lunatic](https://github.com/lunatic-solutions/lunatic) - universal runtime for fast, robust and scalable server-side applications
+
 [real-time communication](https://blog.tonari.no/why-we-love-rust))
 [tracking heart rate while gaming](https://jcdav.is/2021/01/04/Holiday-Hacking-COD-HR/) - [code](https://github.com/jcdavis/hroverlay)
 
