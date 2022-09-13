@@ -124,3 +124,4 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Rust vs Go, C++, or Node.js](https://symless.com/blog/we-are-choosing-rust-and-heres-why)
 + [A pleasing symmetry in Rust](https://v5.chriskrycho.com/journal/pleasing-symmetry-in-rust/)
 + [Faster Trees](https://www.elmalabarista.com/blog/2022-flat-tree/)
++ [Serving a high-performance blog solely from memory](https://xeiaso.net/talks/how-my-website-works)
