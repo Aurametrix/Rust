@@ -49,6 +49,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 + [ Ht – HTTPie Clone in Rust](https://github.com/ducaale/ht)
 + [Writing embedded firmware](https://www.anyleaf.org/)
 + [XSV](https://github.com/BurntSushi/xsv) - a command line tool for csv files
++ [Komorebi](https://github.com/LGUG2Z/komorebi) - tiling window manager
 
 ##### Misc
 [Comparing performance](https://bitbucket.org/blog/why-rust)
