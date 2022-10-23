@@ -125,6 +125,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Rust is hard](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html)
 + [Rust making way into Linux](https://www.zdnet.com/article/linus-torvalds-on-where-rust-will-fit-into-linux/)
 + [Rust CUDA](https://github.com/RDambrosio016/Rust-CUDA)
++ [glueSQL](https://github.com/gluesql/gluesql)
 + [Rust vs Go, C++, or Node.js](https://symless.com/blog/we-are-choosing-rust-and-heres-why)
 + [A pleasing symmetry in Rust](https://v5.chriskrycho.com/journal/pleasing-symmetry-in-rust/)
 + [Faster Trees](https://www.elmalabarista.com/blog/2022-flat-tree/)
