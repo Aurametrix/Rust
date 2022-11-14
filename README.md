@@ -6,7 +6,7 @@ One of the most loved by [developers](http://stackoverflow.com/insights/survey/2
 
 Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jars" as other JVM languages. Rust chose to call its format "crates".
 
-
+[Exploring Rust as a Python developer](https://karimjedda.com/carefully-exploring-rust/)
 
 [Who is using Rust](https://www.rust-lang.org/en-US/friends.html)
 [Learn Rust](https://news.ycombinator.com/item?id=24527219)
