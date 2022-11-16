@@ -62,6 +62,8 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 
 [CONST generics](https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/)
 
+[Live View](https://github.com/lunatic-solutions/submillisecond-live-view) - A LiveView implementation for the submillisecond web framework built with lunatic.
+
 [nushell](https://www.nushell.sh/) - a new type of shell written in Rust
 
 [Audio library](https://github.com/RustAudio/cpal)
