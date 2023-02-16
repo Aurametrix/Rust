@@ -123,11 +123,12 @@ add $STANDALONE_NDK/bin to $PATH.
 + [AutoCXX](https://github.com/google/autocxx) - call C++ from Rust
 + [Command-line library](https://github.com/rust-shell-script/rust_cmd_lib)
 + [BSTR](https://blog.burntsushi.net/bstr/) - byte string library 
-+ [GameLisp ](https://gamelisp.rs/) - scripting language for Rust game development; [Tetris](https://gamelisp.rs/playground/#quadris)
++ [GameLisp ](https://gamelisp.rs/) - scripting language for Rust game deveopment; [Tetris](https://gamelisp.rs/playground/#quadris)
 + [krunvm](https://github.com/slp/krunvm/) - a CLI-based utility for managing lightweight VMs created from OCI images, using libkrun and buildah.
 + [Typechecker](https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/)
 + [Rust is hard](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html)
 + [Rust making way into Linux](https://www.zdnet.com/article/linus-torvalds-on-where-rust-will-fit-into-linux/)
++ [Alloscope](https://github.com/matt-kimball/allocscope) - mmory tracking tool
 + [Rust CUDA](https://github.com/RDambrosio016/Rust-CUDA)
 + [glueSQL](https://github.com/gluesql/gluesql)
 + [Rust vs Go, C++, or Node.js](https://symless.com/blog/we-are-choosing-rust-and-heres-why)
