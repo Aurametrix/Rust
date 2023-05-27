@@ -55,6 +55,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 + [Writing embedded firmware](https://www.anyleaf.org/)
 + [XSV](https://github.com/BurntSushi/xsv) - a command line tool for csv files
 + [Komorebi](https://github.com/LGUG2Z/komorebi) - tiling window manager
++ Servo](https://servo.org/) - parallel browser engine
 
 
 ##### Misc
