@@ -13,6 +13,8 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 
 [Rust is a scalable language](https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html)
 
+[Rust Module System](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices) Encourages Bad Practices
+
 [MS Video course](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#)
 
 [a half-an-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
@@ -36,7 +38,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 [Rust is the future of JS infrastructure](https://leerob.io/blog/rust)
 
 #### Examples of Projects built with Rust:
-* [Servo, the new browser engine being developed by Mozilla](https://github.com/servo/servo)
+* [Servo, the new parallel browser engine being developed by Mozilla](https://github.com/servo/servo) - [Servo](https://servo.org/)
 * [Maidsafe, a company that tries to create an encrypted, completely decentralized "successor" to the internet](http://maidsafe.net/)
 * [Piston, a modular open source game engine](http://www.piston.rs/)
 * [RG3D](https://github.com/mrDIMAS/rg3d) - 3D game engine & scene editor
@@ -55,7 +57,8 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 + [Writing embedded firmware](https://www.anyleaf.org/)
 + [XSV](https://github.com/BurntSushi/xsv) - a command line tool for csv files
 + [Komorebi](https://github.com/LGUG2Z/komorebi) - tiling window manager
-+ Servo](https://servo.org/) - parallel browser engine
+
+
 
 
 ##### Misc
@@ -68,6 +71,10 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 [Hurl](https://hurl.dev/index.html) -  lightweight binary written in Rust; command line tool that runs HTTP requests defined in a simple plain text format.
 
 [CONST generics](https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/)
+
+[Open sourcing Ezno's typescript checker](https://github.com/kaleidawave/ezno/discussions/21)
+
+
 
 [Live View](https://github.com/lunatic-solutions/submillisecond-live-view) - A LiveView implementation for the submillisecond web framework built with lunatic.
 
