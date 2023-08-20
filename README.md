@@ -148,3 +148,4 @@ add $STANDALONE_NDK/bin to $PATH.
 + [A pleasing symmetry in Rust](https://v5.chriskrycho.com/journal/pleasing-symmetry-in-rust/)
 + [Faster Trees](https://www.elmalabarista.com/blog/2022-flat-tree/)
 + [Serving a high-performance blog solely from memory](https://xeiaso.net/talks/how-my-website-works)
++ [Open-source game server management](https://github.com/rivet-gg/rivet)
