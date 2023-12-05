@@ -99,6 +99,8 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 
 [Zeke](https://github.com/nwj/zeke/) - note taking app
 
+[PCMG](https://github.com/JohnDowson/pcmg) - modular synthesizer emulator
+
 [Busy Box](https://github.com/samuela/rustybox)
 
 [NES emulator](https://github.com/spieglt/nestur)
