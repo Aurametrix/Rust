@@ -113,7 +113,10 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 
 [Tensorbase](https://tensorbase.io/)
 
+[LOCO](https://github.com/loco-rs/loco) - API & web framework
 [JQL](https://crates.io/crates/jql) - JSON query language built with RUST
+
+
 + [sqlite-loadable-rs](https://observablehq.com/@asg017/introducing-sqlite-loadable-rs) - A framework for building SQLite Extensions in Rust
 
 [Rust script](https://rust-script.org/)
