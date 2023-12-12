@@ -75,7 +75,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 
 [Open sourcing Ezno's typescript checker](https://github.com/kaleidawave/ezno/discussions/21)
 
-
+[Trippy](https://trippy.cli.rs/) - A Network Diagnostic Tool.  [code on github](https://github.com/fujiapple852/trippy)
 
 [Live View](https://github.com/lunatic-solutions/submillisecond-live-view) - A LiveView implementation for the submillisecond web framework built with lunatic.
 
