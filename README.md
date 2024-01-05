@@ -154,5 +154,6 @@ add $STANDALONE_NDK/bin to $PATH.
 + [A pleasing symmetry in Rust](https://v5.chriskrycho.com/journal/pleasing-symmetry-in-rust/)
 + [Faster Trees](https://www.elmalabarista.com/blog/2022-flat-tree/)
 + [Serving a high-performance blog solely from memory](https://xeiaso.net/talks/how-my-website-works)
++ [Building Message Streaming](https://blog.iggy.rs/posts/building-message-streaming-in-rust/)
 + [Open-source game server management](https://github.com/rivet-gg/rivet)
 + [Rip](https://prefix.dev/blog/introducing_rip) - Rust crate to resolve and install Python packages 
