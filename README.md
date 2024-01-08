@@ -150,6 +150,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Alloscope](https://github.com/matt-kimball/allocscope) - mmory tracking tool
 + [Rust CUDA](https://github.com/RDambrosio016/Rust-CUDA)
 + [glueSQL](https://github.com/gluesql/gluesql)
++ [GitUI](https://github.com/extrawurst/gitui) - 
 + [Rust vs Go, C++, or Node.js](https://symless.com/blog/we-are-choosing-rust-and-heres-why)
 + [A pleasing symmetry in Rust](https://v5.chriskrycho.com/journal/pleasing-symmetry-in-rust/)
 + [Faster Trees](https://www.elmalabarista.com/blog/2022-flat-tree/)
