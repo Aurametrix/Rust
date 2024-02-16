@@ -114,6 +114,8 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 
 [Rust without the async (hard) part](https://lunatic.solutions/blog/rust-without-the-async-hard-part/)
 
+[Python Packaging in Rust](https://astral.sh/blog/uv)
+
 [Tensorbase](https://tensorbase.io/)
 
 [LOCO](https://github.com/loco-rs/loco) - API & web framework
