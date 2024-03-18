@@ -17,6 +17,8 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 
 [Rust Module System](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices) Encourages Bad Practices
 
+[Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
+
 [MS Video course](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#)
 
 [a half-an-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
