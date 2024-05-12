@@ -174,3 +174,4 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Rip](https://prefix.dev/blog/introducing_rip) - Rust crate to resolve and install Python packages
 + [GritQL](https://github.com/getgrit/gritql) - a Rust CLI for rewriting source code
 + [Hackerverse](https://github.com/wilsonzlin/hackerverse) - mapping Hacker News; [blog](https://blog.wilsonl.in/hackerverse/)
++ [Arbitrengine](https://github.com/Cabbache/arbitrengine) - A graph based arbitrage calculator with state updates
