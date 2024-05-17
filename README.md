@@ -175,3 +175,4 @@ add $STANDALONE_NDK/bin to $PATH.
 + [GritQL](https://github.com/getgrit/gritql) - a Rust CLI for rewriting source code
 + [Hackerverse](https://github.com/wilsonzlin/hackerverse) - mapping Hacker News; [blog](https://blog.wilsonl.in/hackerverse/)
 + [Arbitrengine](https://github.com/Cabbache/arbitrengine) - A graph based arbitrage calculator with state updates
++ [Tiny Binary](https://domluna.com/blog/tiny-binary-rag) - State-of-the-Art Exact Binary Vector Search for RAG in 100 lines of Julia
