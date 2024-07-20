@@ -178,3 +178,4 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Tiny Binary](https://domluna.com/blog/tiny-binary-rag) - State-of-the-Art Exact Binary Vector Search for RAG in 100 lines of Julia
 + [Restate](https://restate.dev/) - Workflows as code
 + [High Frequency Trading](https://github.com/nkaz001/hftbacktest/tree/master/rust)
++ [Playing guitar tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
