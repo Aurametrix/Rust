@@ -179,3 +179,4 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Restate](https://restate.dev/) - Workflows as code
 + [High Frequency Trading](https://github.com/nkaz001/hftbacktest/tree/master/rust)
 + [Playing guitar tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
++ [THe ways Rust Can Dissapoint](https://old.reddit.com/r/rust/comments/1e978l7/ive_used_and_loved_rust_for_10_years_here_are_the/)
