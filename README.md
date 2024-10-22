@@ -83,6 +83,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 [Trippy](https://trippy.cli.rs/) - A Network Diagnostic Tool.  [code on github](https://github.com/fujiapple852/trippy)
 
 [Live View](https://github.com/lunatic-solutions/submillisecond-live-view) - A LiveView implementation for the submillisecond web framework built with lunatic.
+[Rwf](https://github.com/levkk/rwf) - Rust Web Framework
 
 [nushell](https://www.nushell.sh/) - a new type of shell written in Rust
 
