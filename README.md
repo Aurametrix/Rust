@@ -102,6 +102,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 
 [real-time communication](https://blog.tonari.no/why-we-love-rust))
 [tracking heart rate while gaming](https://jcdav.is/2021/01/04/Holiday-Hacking-COD-HR/) - [code](https://github.com/jcdavis/hroverlay)
+[2048](https://github.com/dev-family/wasm-2048)
 
 [Assembly with Rust](https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/): [playground](https://play.rust-lang.org/?version=nightly&mode=debug&edition=2018&gist=9500bb2bc3f638a4dd89e81fecafac0e)
 
