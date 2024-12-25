@@ -174,6 +174,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Serving a high-performance blog solely from memory](https://xeiaso.net/talks/how-my-website-works)
 + [Building Message Streaming](https://blog.iggy.rs/posts/building-message-streaming-in-rust/)
 + [Open-source game server management](https://github.com/rivet-gg/rivet)
++ [Refinement Types](https://yoric.github.io/post/rust-refinement-types/)
 + [CSVlens](https://github.com/YS-L/csvlens) - command line CSV viewer
 + [Rip](https://prefix.dev/blog/introducing_rip) - Rust crate to resolve and install Python packages
 + [GritQL](https://github.com/getgrit/gritql) - a Rust CLI for rewriting source code
