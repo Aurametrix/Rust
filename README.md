@@ -170,6 +170,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [GitUI](https://github.com/extrawurst/gitui) - 
 + [Rust vs Go, C++, or Node.js](https://symless.com/blog/we-are-choosing-rust-and-heres-why)
 + [A pleasing symmetry in Rust](https://v5.chriskrycho.com/journal/pleasing-symmetry-in-rust/)
++ [Access Rules](https://fractalfir.github.io/generated_html/refl_priv.html)
 + [Faster Trees](https://www.elmalabarista.com/blog/2022-flat-tree/)
 + [Serving a high-performance blog solely from memory](https://xeiaso.net/talks/how-my-website-works)
 + [Building Message Streaming](https://blog.iggy.rs/posts/building-message-streaming-in-rust/)
