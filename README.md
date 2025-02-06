@@ -93,6 +93,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 [Audio library](https://github.com/RustAudio/cpal)
 [guitar tuner with flutter and Rust](https://justune.eu/#/)
 [Muse](https://github.com/aabiji/muse) - background music player
+[Polaris](https://github.com/agersant/polaris) - elf-hosted music streaming server
 
 [Rust for Linux redux](https://lwn.net/Articles/862018/)
 [Error handling](https://www.sheshbabu.com/posts/rust-error-handling/)
