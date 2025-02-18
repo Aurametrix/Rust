@@ -86,6 +86,8 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 [Live View](https://github.com/lunatic-solutions/submillisecond-live-view) - A LiveView implementation for the submillisecond web framework built with lunatic.
 [Rwf](https://github.com/levkk/rwf) - Rust Web Framework
 
+[RustOWL](https://github.com/cordx56/rustowl) - visualizes ownership movement and lifetimes of variables
+
 [nushell](https://www.nushell.sh/) - a new type of shell written in Rust
 
 [Loungy](https://github.com/MatthiasGrandl/loungy) - An Application Launcher Written with GPUI, the Zed GPU UI Framework 
