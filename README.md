@@ -64,6 +64,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 + [XSV](https://github.com/BurntSushi/xsv) - a command line tool for csv files
 + [Komorebi](https://github.com/LGUG2Z/komorebi) - tiling window manager
 + [Aft](https://github.com/dd-dreams/aft) - minimalistic file transferring program
++ [Tach](https://github.com/gauge-sh/tach) - Python tool to enforce dependencies and interfaces, written in Rust
 
 
 
