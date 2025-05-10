@@ -124,6 +124,8 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 
 [Rust in Pinecone](https://www.pinecone.io/learn/inside-the-pinecone/#rust-a-hard-decision-pays-off)
 
+[Rust Dependencies](https://vincents.dev/blog/rust-dependencies-scare-me/?)
+
 [Why asynchronous Rust doesn't work](https://theta.eu.org/2021/03/08/async-rust-2.html)
 
 [Rust without the async (hard) part](https://lunatic.solutions/blog/rust-without-the-async-hard-part/)
