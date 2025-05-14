@@ -11,6 +11,8 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 [Who is using Rust](https://www.rust-lang.org/en-US/friends.html)
 [Learn Rust](https://news.ycombinator.com/item?id=24527219)
 
+[Flattening Rust's LEarning curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
+
 [Rust is a scalable language](https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html)
 
 [Rust as an easy choice for npm](https://www.rust-lang.org/static/pdfs/Rust-npm-Whitepaper.pdf)
