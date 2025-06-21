@@ -200,3 +200,4 @@ add $STANDALONE_NDK/bin to $PATH.
 + [THe ways Rust Can Dissapoint](https://old.reddit.com/r/rust/comments/1e978l7/ive_used_and_loved_rust_for_10_years_here_are_the/)
 + [Move semantics in rust, C++, and Hylo](https://lukas-prokop.at/articles/2024-11-29-move-semantics-in-rust-cpp-and-hylo)
 + [llmterm](https://github.com/timschmidt/llmterm) - Quick and dirty local LLM terminal buddy
++ [nanograd](https://github.com/e3ntity/nanograd) - Minimal automatic-differentiation engine
