@@ -201,3 +201,5 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Move semantics in rust, C++, and Hylo](https://lukas-prokop.at/articles/2024-11-29-move-semantics-in-rust-cpp-and-hylo)
 + [llmterm](https://github.com/timschmidt/llmterm) - Quick and dirty local LLM terminal buddy
 + [nanograd](https://github.com/e3ntity/nanograd) - Minimal automatic-differentiation engine
++ [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust
+
