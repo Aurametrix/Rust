@@ -189,6 +189,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Open-source game server management](https://github.com/rivet-gg/rivet)
 + [Refinement Types](https://yoric.github.io/post/rust-refinement-types/)
 + [CSVlens](https://github.com/YS-L/csvlens) - command line CSV viewer
++ [CLI with CLAP](https://tucson-josh.com/posts/rust-clap-cli/)
 + [Rip](https://prefix.dev/blog/introducing_rip) - Rust crate to resolve and install Python packages
 + [GritQL](https://github.com/getgrit/gritql) - a Rust CLI for rewriting source code
 + [Hackerverse](https://github.com/wilsonzlin/hackerverse) - mapping Hacker News; [blog](https://blog.wilsonl.in/hackerverse/)
