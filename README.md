@@ -205,4 +205,5 @@ add $STANDALONE_NDK/bin to $PATH.
 + [nanograd](https://github.com/e3ntity/nanograd) - Minimal automatic-differentiation engine
 + [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust
 + [Coccinelle for Rust](https://www.collabora.com/news-and-blog/blog/2025/06/25/coccinelle-for-rust-progress-report/)
++ [A Rust shaped hole](https://mnvr.in/rust)
 
