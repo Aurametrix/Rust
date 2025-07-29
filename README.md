@@ -47,6 +47,8 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 
 [Rust is the future of JS infrastructure](https://leerob.io/blog/rust)
 
+[Rust SQL toolkit](https://github.com/launchbadge/sqlx)
+
 #### Examples of Projects built with Rust:
 * [Servo, the new parallel browser engine being developed by Mozilla](https://github.com/servo/servo) - [Servo](https://servo.org/)
 * [Maidsafe, a company that tries to create an encrypted, completely decentralized "successor" to the internet](http://maidsafe.net/)
