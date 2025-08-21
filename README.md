@@ -88,6 +88,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 
 [CONST generics](https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/)
+[typed-arrow](https://github.com/tonbo-io/typed-arrow) - declare Arrow schemas
 
 [Open sourcing Ezno's typescript checker](https://github.com/kaleidawave/ezno/discussions/21)
 
