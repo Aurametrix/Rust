@@ -59,7 +59,8 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 * [wtftw, a tiling window manager](https://github.com/Kintaro/wtftw)
 * [Redox: A Rust Operating System](https://www.redox-os.org); Github [code](https://github.com/redox-os/redox)
 * [Memote](https://github.com/opencobra/memote) - genome-scale metabolic model testing; [paper](https://www.nature.com/articles/s41587-020-0446-y) 
-* [Sandspiel game](https://sandspiel.club); Github [code:](https://github.com/maxbittker/sandspiel) 
+* [Sandspiel game](https://sandspiel.club); Github [code:](https://github.com/maxbittker/sandspiel)
+* [LightCycle](https://github.com/Tortured-Metaphor/LightCycle) - A classic TRON-inspired light cycle game built with Rust and ggez.
 * [Bevy](https://bevyengine.org/news/introducing-bevy/) - data-driven game engine
 * [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
 + [Cryptographic hash function](https://github.com/BLAKE3-team/BLAKE3)
