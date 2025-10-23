@@ -203,6 +203,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Arbitrengine](https://github.com/Cabbache/arbitrengine) - A graph based arbitrage calculator with state updates
 + [Tiny Binary](https://domluna.com/blog/tiny-binary-rag) - State-of-the-Art Exact Binary Vector Search for RAG in 100 lines of Julia
 + [Restate](https://restate.dev/) - Workflows as code
++ [Cuq](https://github.com/neelsomani/cuq) - CUDA + Coq: Formal Semantics and Verified Translation of Rust GPU Kernels
 + [High Frequency Trading](https://github.com/nkaz001/hftbacktest/tree/master/rust)
 + [Playing guitar tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
 + [THe ways Rust Can Dissapoint](https://old.reddit.com/r/rust/comments/1e978l7/ive_used_and_loved_rust_for_10_years_here_are_the/)
