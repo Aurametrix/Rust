@@ -213,4 +213,5 @@ add $STANDALONE_NDK/bin to $PATH.
 + [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust
 + [Coccinelle for Rust](https://www.collabora.com/news-and-blog/blog/2025/06/25/coccinelle-for-rust-progress-report/)
 + [A Rust shaped hole](https://mnvr.in/rust)
++ [automatically translating C to Rust](https://cacm.acm.org/research/automatically-translating-c-to-rust/)
 
