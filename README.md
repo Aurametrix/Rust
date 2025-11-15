@@ -215,4 +215,5 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Coccinelle for Rust](https://www.collabora.com/news-and-blog/blog/2025/06/25/coccinelle-for-rust-progress-report/)
 + [A Rust shaped hole](https://mnvr.in/rust)
 + [automatically translating C to Rust](https://cacm.acm.org/research/automatically-translating-c-to-rust/)
++ [Rust in Android](https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html)
 
