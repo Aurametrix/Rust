@@ -208,6 +208,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Playing guitar tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
 + [qqqa](https://github.com/iagooar/qqqa) - LLM-powered assistant for your shell
 + [THe ways Rust Can Dissapoint](https://old.reddit.com/r/rust/comments/1e978l7/ive_used_and_loved_rust_for_10_years_here_are_the/)
++ [Boa](https://github.com/boa-dev/boa) - experimental JavaScript lexer, parser and interpreter written in Rust
 + [Move semantics in rust, C++, and Hylo](https://lukas-prokop.at/articles/2024-11-29-move-semantics-in-rust-cpp-and-hylo)
 + [llmterm](https://github.com/timschmidt/llmterm) - Quick and dirty local LLM terminal buddy
 + [nanograd](https://github.com/e3ntity/nanograd) - Minimal automatic-differentiation engine
