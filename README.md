@@ -221,4 +221,4 @@ add $STANDALONE_NDK/bin to $PATH.
 + [automatically translating C to Rust](https://cacm.acm.org/research/automatically-translating-c-to-rust/)
 + [Rust in Android](https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html)
 + [Go vs Rust vs Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
-
++ [Rue](https://rue-lang.dev/) - higher level than Rust, lower than Go
