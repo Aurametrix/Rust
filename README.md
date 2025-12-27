@@ -222,3 +222,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Rust in Android](https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html)
 + [Go vs Rust vs Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
 + [Rue](https://rue-lang.dev/) - higher level than Rust, lower than Go
++ [AutoLISP in Rust](https://acadlisp.de/)
++ [The Algebra of Loans in Rust](https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html)
+
+
