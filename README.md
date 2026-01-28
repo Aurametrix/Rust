@@ -179,7 +179,8 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Crepe](https://crates.io/crates/crepe) - library for declarative logic programs in Rust, with a Datalog-like syntax
 + [AutoCXX](https://github.com/google/autocxx) - call C++ from Rust
 + [Command-line library](https://github.com/rust-shell-script/rust_cmd_lib)
-+ [BSTR](https://blog.burntsushi.net/bstr/) - byte string library 
++ [BSTR](https://blog.burntsushi.net/bstr/) - byte string library
++ [Standard Library on GPU](https://www.vectorware.com/blog/rust-std-on-gpu/)
 + [GameLisp ](https://gamelisp.rs/) - scripting language for Rust game deveopment; [Tetris](https://gamelisp.rs/playground/#quadris)
 + [krunvm](https://github.com/slp/krunvm/) - a CLI-based utility for managing lightweight VMs created from OCI images, using libkrun and buildah.
 + [imgcatr](https://github.com/SilinMeng0510/imgcatr) - A CLI application for displaying images.
