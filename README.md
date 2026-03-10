@@ -228,5 +228,6 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Rust Closures](https://antoine.vandecreme.net/blog/rust-closures/)
 + [Ladybird adopts Rust](https://ladybird.org/posts/adopting-rust/)
 + [Rust 1.94.0](https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/)
++ [oxigdal](https://github.com/cool-japan/oxigdal) - omprehensive, production-ready geospatial data abstraction library written in 100% Pure Rust with zero C/C++/Fortran dependencies in default features
 
 
