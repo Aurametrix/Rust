@@ -231,6 +231,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [oxigdal](https://github.com/cool-japan/oxigdal) - omprehensive, production-ready geospatial data abstraction library written in 100% Pure Rust with zero C/C++/Fortran dependencies in default features
 + [Soma OS](https://github.com/avsribhas-svg/SomaOS) - ebuilding the desktop so AI is native to it, not bolted on
 + [Xilem](https://github.com/linebender/xilem) - RUST native UI framework
++ [Foxguard](https://github.com/PwnKit-Labs/foxguard) - security scanner
 
 
 
