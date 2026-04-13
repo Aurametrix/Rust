@@ -224,6 +224,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Go vs Rust vs Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
 + [Rue](https://rue-lang.dev/) - higher level than Rust, lower than Go
 + [AutoLISP in Rust](https://acadlisp.de/)
++ [Linux desktop app ](https://github.com/ptcodes/BatteryScope) -  that tracks laptop battery health, logs per-minute stats to a local SQLite database, and visualizes capacity trends and degradation over time
 + [The Algebra of Loans in Rust](https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html)
 + [Rust Closures](https://antoine.vandecreme.net/blog/rust-closures/)
 + [Ladybird adopts Rust](https://ladybird.org/posts/adopting-rust/)
