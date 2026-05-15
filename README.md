@@ -228,6 +228,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Linux desktop app ](https://github.com/ptcodes/BatteryScope) -  that tracks laptop battery health, logs per-minute stats to a local SQLite database, and visualizes capacity trends and degradation over time
 + [The Algebra of Loans in Rust](https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html)
 + [Rust Closures](https://antoine.vandecreme.net/blog/rust-closures/)
++ [Bun](https://github.com/oven-sh/bun/pull/30412)
 + [Clone](https://github.com/unixshells/clone) - a small VMM
 + [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
 + [Ladybird adopts Rust](https://ladybird.org/posts/adopting-rust/)
