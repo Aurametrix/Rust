@@ -240,6 +240,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [cost tracker for AI agents](https://getbudi.dev/)
 + [Xilem](https://github.com/linebender/xilem) - RUST native UI framework
 + [Foxguard](https://github.com/PwnKit-Labs/foxguard) - security scanner
++ [Rosalind](https://github.com/logannye/rosalind) - a deterministic, low-memory genomics engine in Rust for read alignment and variant calling on commodity hardware
 
 
 
