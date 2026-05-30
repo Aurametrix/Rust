@@ -226,6 +226,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Rue](https://rue-lang.dev/) - higher level than Rust, lower than Go
 + [AutoLISP in Rust](https://acadlisp.de/)
 + [Linux desktop app ](https://github.com/ptcodes/BatteryScope) -  that tracks laptop battery health, logs per-minute stats to a local SQLite database, and visualizes capacity trends and degradation over time
++ [Secluso](https://github.com/secluso/core) - Private DIY home security for Raspberry Pi, with encrypted remote access 
 + [The Algebra of Loans in Rust](https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html)
 + [Rust Closures](https://antoine.vandecreme.net/blog/rust-closures/)
 + [Bun](https://github.com/oven-sh/bun/pull/30412)
