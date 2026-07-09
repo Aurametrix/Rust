@@ -246,6 +246,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Xilem](https://github.com/linebender/xilem) - RUST native UI framework
 + [Foxguard](https://github.com/PwnKit-Labs/foxguard) - security scanner
 + [Rosalind](https://github.com/logannye/rosalind) - a deterministic, low-memory genomics engine in Rust for read alignment and variant calling on commodity hardware
++ [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/)
 
 
 
