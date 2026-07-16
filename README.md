@@ -243,6 +243,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Jetro](https://github.com/mitghi/jetro) - JSON query engine
 + [Soma OS](https://github.com/avsribhas-svg/SomaOS) - ebuilding the desktop so AI is native to it, not bolted on
 + [cost tracker for AI agents](https://getbudi.dev/)
++ [GROK Build](https://github.com/xai-org/grok-build) - the Rust source for the grok CLI/TUI and its agent runtime
 + [Xilem](https://github.com/linebender/xilem) - RUST native UI framework
 + [Foxguard](https://github.com/PwnKit-Labs/foxguard) - security scanner
 + [Rosalind](https://github.com/logannye/rosalind) - a deterministic, low-memory genomics engine in Rust for read alignment and variant calling on commodity hardware
