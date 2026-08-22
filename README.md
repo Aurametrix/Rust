@@ -169,6 +169,8 @@ add $STANDALONE_NDK/bin to $PATH.
 
 [Gutenberg](https://github.com/Keats/gutenberg) -  static site generator with everything built-in  --[hn](https://news.ycombinator.com/item?id=15507538) 
 
+[REX](https://github.com/peterkelly/rex) - Rush Expressions, language for scientific workflows
+
 + [Bioinformatics Library](https://github.com/10XGenomics/rust-bio)
 + [Game Development](http://iolivia.me/posts/24-hours-of-rust-game-dev/)
 + [Programming microcontroller](https://gill.net.in/posts/pic32-blink-led-rust/)
