@@ -88,6 +88,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 [Rust in faster than C](https://benchmarksgame-team.pages.debian.net/benchmarksgame/which-programs-are-fastest.html)
 [svd2rust](https://docs.rs/svd2rust/)  - generates register-level APIs from SVD files, an XML format provided by most ARM microcontroller vendors; 
 [Hurl](https://hurl.dev/index.html) -  lightweight binary written in Rust; command line tool that runs HTTP requests defined in a simple plain text format.
+[When Rust gets ugly](https://corrode.dev/blog/ugly/)
 
 [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 
