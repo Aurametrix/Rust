@@ -36,6 +36,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 
 [Speeding up Rust compiler](https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/)
 [Compiler in Rust](https://medium.com/@mhiritarek/why-i-built-a-deterministic-cpg-to-nuclei-compiler-in-rust-bcb6c7afe4f8)
+[React Now Rusted All The Way Out ](https://blog.master.dev/react-now-rusted-all-the-way-out/) - compiler now native on Vita
 [Speed of Rust vs. C](https://kornel.ski/rust-c-speed)
 [Switching to Rust from C++](https://laplab.me/posts/switching-from-cpp-to-rust/)
 [Safety in Systems Programing](https://reberhardt.com/blog/2020/10/05/designing-a-new-class-at-stanford-safety-in-systems-programming.html); 
