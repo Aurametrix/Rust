@@ -91,6 +91,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 [svd2rust](https://docs.rs/svd2rust/)  - generates register-level APIs from SVD files, an XML format provided by most ARM microcontroller vendors; 
 [Hurl](https://hurl.dev/index.html) -  lightweight binary written in Rust; command line tool that runs HTTP requests defined in a simple plain text format.
 [When Rust gets ugly](https://corrode.dev/blog/ugly/)
+[Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
 
 [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 
