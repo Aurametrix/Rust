@@ -257,6 +257,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Rosalind](https://github.com/logannye/rosalind) - a deterministic, low-memory genomics engine in Rust for read alignment and variant calling on commodity hardware
 + [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/)
 + [Postgres rewrittein in Rust](https://github.com/malisper/pgrust)
++ [Ubuntu 26.10 completes transition to Rust-based coreutils](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete)
 
 
 
