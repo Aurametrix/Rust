@@ -78,6 +78,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 + [Aft](https://github.com/dd-dreams/aft) - minimalistic file transferring program
 + [Tach](https://github.com/gauge-sh/tach) - Python tool to enforce dependencies and interfaces, written in Rust
 + [Open Note Viewer](https://github.com/emsi/OneNoteViewer)
++ [Penguin mail](https://penguin-mail.com/) - email client
 
 
 
