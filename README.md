@@ -32,6 +32,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 
 [Learning Rust in 2020](https://github.com/pretzelhammer/rust-blog/blob/master/posts/learning-rust-in-2020.md)
 [tsrs: A port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/)
+[Rust style guide](https://google.github.io/styleguide/rustguide.html)
 
 
 
