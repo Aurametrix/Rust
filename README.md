@@ -81,6 +81,7 @@ Python has its "eggs" and Ruby has its "gems". Clojure uses the same boring "jar
 + [Tach](https://github.com/gauge-sh/tach) - Python tool to enforce dependencies and interfaces, written in Rust
 + [Open Note Viewer](https://github.com/emsi/OneNoteViewer)
 + [Penguin mail](https://penguin-mail.com/) - email client
++ [Ketchuo](https://github.com/Ketchup3D/app) - 3D edge and face editor written in Rust.
 
 
 
