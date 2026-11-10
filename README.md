@@ -265,6 +265,7 @@ add $STANDALONE_NDK/bin to $PATH.
 + [Postgres rewrittein in Rust](https://github.com/malisper/pgrust)
 + [Ubuntu 26.10 completes transition to Rust-based coreutils](https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete)
 + [Firenook](https://firenook.dev/) - Firebase emulators in Rust
++ [EXACT](https://github.com/expo/exact) - Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it, run it, see it, and test it on every one of them.
 
 
 
